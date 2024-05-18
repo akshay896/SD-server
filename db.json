@@ -1,0 +1,32 @@
+{
+  "allDetails": [
+    {
+      "id": "a3a5",
+      "regNumber": "234",
+      "stdName": "Akshay T K",
+      "stdGender": "Male",
+      "stdBatch": "Science"
+    },
+    {
+      "id": "35d6",
+      "regNumber": "354",
+      "stdName": "Anagha",
+      "stdGender": "Female",
+      "stdBatch": "Commerce"
+    },
+    {
+      "id": "42f8",
+      "regNumber": "234",
+      "stdName": "Aswin t",
+      "stdGender": "Male",
+      "stdBatch": "Science"
+    },
+    {
+      "id": "ca44",
+      "regNumber": "234",
+      "stdName": "Akshay T K",
+      "stdGender": "Male",
+      "stdBatch": "Science"
+    }
+  ]
+}
